@@ -1,0 +1,11 @@
+.caregory{
+    color: aliceblue;
+    background-color: black;
+    padding: 0 8px 0 15px;
+    top: 10px;
+    left: 0;
+    height: 30px;
+    line-height: 30px;
+    position: absolute;
+    font-size: 13px;
+}
